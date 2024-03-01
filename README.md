@@ -1,12 +1,18 @@
 ### Hi there 👋🏻
 
-I am currently working as a Data Analyst/Scientist in London, United Kingdom. Here's a summary of my experience and skills:
- 🔥 **Skills:**
-- Proficient in Python, R, SQL
-- Experienced with TensorFlow, PyTorch, NLTK
-- Skilled in SQL databases, Tableau, AWS
+I am currently seeking opportunities under the umbrella of Data Science in London, United Kingdom. Here's a summary of my experience and skills:
 
-🚀 **Work Experience:**
+
+### 🔥 **Skills:**
+
+- Programming Languages & Tools: Python, R, Java, SQL, TensorFlow, PyTorch, Keras, NLTK, spaCy, Gensim, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Git, Docker, Apache Kafka 
+- Machine Learning & NLP: Supervised and unsupervised learning, deep learning, reinforcement learning, feature engineering, sentiment analysis, text classification, language modeling, entity recognition, machine translation  
+- Data Management & Visualization: SQL databases, NoSQL databases (e.g., MongoDB), data warehousing, ETL processes, data preprocessing, interactive data visualization tools (e.g., Tableau, PowerBI) 
+- Cloud Platforms & Big Data: AWS, Azure, Google Cloud Platform, Hadoop, Spark  
+
+
+### 🚀 **Work Experience:**
+
 - **Beyond the Door a Paradox House Collaboration | Omdena, London (voluntary remote)**
   - Junior Artificial Intelligence/Machine Learning Engineer
   - Led team in developing Advanced Digital Likeness Platform for the film industry.
@@ -16,14 +22,20 @@ I am currently working as a Data Analyst/Scientist in London, United Kingdom. He
   - Quality Analyst
   - Ensured 97% accuracy in data annotation and cleaning.
 
-🎓 **Education:**
+### **🎓 Education:** 
+
 - MSc Artificial Intelligence, Royal Holloway University of London (Distinction) 
 - BSc Information Technology, University of Mumbai (8.9 CGPA) 
 
 
-🏆 **Certifications:**
-- Google Data Analytics Professional Certificate
-- AWS Certified Solutions Architect - Associate
+### **🏆 Certifications:**
+
+- Google Data Analytics Professional Certificate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com) 
+- AWS Certified Solutions Architect - Associate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com)
+- Python for Data Science and Machine Learning Bootcamp [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com) 
+- Getting Started with AI on Jetson Nano [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com) 
+- Financial Risk Analysis [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com)
+
 
 📱 **How to reach me:**
 
