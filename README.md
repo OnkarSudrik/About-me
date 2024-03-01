@@ -18,7 +18,7 @@ I am currently seeking opportunities under the umbrella of Data Science in Londo
   - Led team in developing Advanced Digital Likeness Platform for the film industry.
   - Integrated blockchain for copyright management.
 
--  [Zuru.ai](https://zuru.ai/)  | Bengaluru, India**
+**[Zuru.ai](https://zuru.ai/)  | Bengaluru, India**
   - Quality Analyst
   - Ensured 97% accuracy in data annotation and cleaning.
 
