@@ -27,7 +27,6 @@ I am currently seeking opportunities under the umbrella of Data Science in Londo
 - MSc Artificial Intelligence, Royal Holloway University of London (Distinction) 
 - BSc Information Technology, University of Mumbai (8.9 CGPA) 
 
-
 ### **🏆 Certifications:**
 
 - Google Data Analytics Professional Certificate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://www.credly.com/badges/37523c4a-7976-4488-b812-36acfe6e2690/public_url)
