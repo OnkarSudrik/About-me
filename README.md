@@ -13,12 +13,12 @@ I am currently seeking opportunities under the umbrella of Data Science in Londo
 
 ### 🚀 **Work Experience:**
 
-- **Beyond the Door a Paradox House Collaboration | Omdena, London (voluntary remote)**
+- **Beyond the Door a Paradox House Collaboration | [Omdena](https://www.omdena.com/), London (voluntary remote)**
   - Junior Artificial Intelligence/Machine Learning Engineer
   - Led team in developing Advanced Digital Likeness Platform for the film industry.
   - Integrated blockchain for copyright management.
 
-- **Zuru.ai | Bengaluru, India**
+-  [Zuru.ai](https://zuru.ai/)  | Bengaluru, India**
   - Quality Analyst
   - Ensured 97% accuracy in data annotation and cleaning.
 
@@ -30,11 +30,12 @@ I am currently seeking opportunities under the umbrella of Data Science in Londo
 
 ### **🏆 Certifications:**
 
-- Google Data Analytics Professional Certificate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com) 
-- AWS Certified Solutions Architect - Associate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com)
-- Python for Data Science and Machine Learning Bootcamp [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com) 
-- Getting Started with AI on Jetson Nano [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com) 
-- Financial Risk Analysis [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://example.com)
+- Google Data Analytics Professional Certificate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://www.credly.com/badges/37523c4a-7976-4488-b812-36acfe6e2690/public_url)
+- ([Google Skill Badges ![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](javascript:window.location.href='https://www.cloudskillsboost.google/public_profiles/75391262-68cf-4b5d-b8dc-960d505d46b2/badges/6841288';))
+- AWS Certified Solutions Architect - Associate [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://www.credly.com/badges/34e99d56-30af-4b5b-a889-48e766a65c51/linked_in_profile)
+- Python for Data Science and Machine Learning Bootcamp [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://udemy-certificate.s3.amazonaws.com/image/UC-a415548c-6b10-4250-9707-a5ddc98ad996.jpg?v=1703991724000) 
+- NVDIA Getting Started with AI on Jetson Nano [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://courses.nvidia.com/certificates/42844036762742d8bff4bf91b96dd6d9/) 
+- Financial Risk Analysis [![Certificate](https://img.icons8.com/doodle/24/000000/certificate.png)](https://www.linkedin.com/posts/onkar-sudrik_riskanalysis-finance-machinelearning-activity-7168998666525990915-dCFd?utm_source=share&utm_medium=member_desktop)
 
 
 📱 **How to reach me:**
