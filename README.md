@@ -29,7 +29,9 @@ I am currently seeking opportunities under the umbrella of Data Science in Londo
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/447767935033) 
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/WA1cdNpz3HNt)
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/onkar-sudrik/) 
-[![Gmail](https://img.icons8.com/doodle/64/4285F4/gmail.png)](mailto:onkarsudrik07@gmail.com)
+[![Gmail](https://img.icons8.com/doodle/64/4285F4/gmail.png)](mailto:onkarsudrik07@gmail.com) 
+[<img target="_blank" src="https://img.icons8.com/?size=80&id=bMncK0wGFANA&format=png"/>](https://www.kaggle.com/onkarsudrik)
+
 
  
 
