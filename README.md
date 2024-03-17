@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I am currently seeking opportunities under the umbrella of Data Science in  nited Kingdom. Here's a summary of my experience and skills:
+I am currently seeking opportunities under the umbrella of Data Science in  United Kingdom. Here's a summary of my experience and skills:
 
 ### 🔥 **Skills:**
 
